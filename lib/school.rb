@@ -6,7 +6,7 @@ class School
     @name = name
     @roster = {}
     
-  def student_name(name, grade)
+  def add_student(name, grade)
      else
        @roster[grade] = [student_name]
      end
