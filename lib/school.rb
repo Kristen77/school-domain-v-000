@@ -6,7 +6,7 @@ class School
     @name = name
     @roster = {}
     
-tudent_name
+  def student_name
      else
        @roster[grade] = [student_name]
      end
