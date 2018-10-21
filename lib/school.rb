@@ -2,8 +2,8 @@ class School
   
   attr_reader :name, :roster
   
-  def initialize
-
+  def initialize(name)
+    
 tudent_name
      else
        @roster[grade] = [student_name]
