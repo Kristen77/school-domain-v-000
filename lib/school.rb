@@ -22,6 +22,4 @@ class School
         student_name.sort
     end
   end
-  end
-    end
 end
