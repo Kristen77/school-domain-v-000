@@ -1,3 +1,7 @@
+class School
+  
+  attr_reader
+
 tudent_name
      else
        @roster[grade] = [student_name]
