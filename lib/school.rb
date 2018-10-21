@@ -1,6 +1,6 @@
 class School
   
-  attr_reader
+  attr_reader :name, :roster
 
 tudent_name
      else
